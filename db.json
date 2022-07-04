@@ -1,0 +1,11 @@
+{
+  "Forex": [
+    {
+      "id": 1,
+      "name": "United States Dollar",
+      "flag": "flag",
+      "rates": "rates",
+      "base": "USD"
+    }
+  ]
+}
